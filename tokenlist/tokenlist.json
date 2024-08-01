@@ -1,0 +1,61 @@
+{
+    "name": "Fantom Testnet Token List",
+    "timestamp": "2024-07-31T00:00:00+00:00",
+    "version": {
+      "major": 0,
+      "minor": 1,
+      "patch": 0
+    },
+    "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/fantom-token-list/master/src/tokens/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83/logo.png",
+    "keywords": [
+      "null"
+    ],
+    "tokens": [
+    
+      {
+        "address": "0x52D800ca262522580CeBAD275395ca6e7598C014",
+        "chainId": 4002,
+        "name": "AAVE",
+        "symbol": "AAVE",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/fantom-token-list/master/src/tokens/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83/logo.png"
+      },
+  
+      {
+        "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+        "chainId": 4002,
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/fantom-token-list/master/src/tokens/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83/logo.png"
+      },
+  
+      {
+        "address": "0x96a8Cf5fD3A2C2CD737C699576d39367DB07467A",
+        "chainId": 4002,
+        "name": "Wrapped Fantom",
+        "symbol": "WFTM",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/fantom-token-list/master/src/tokens/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83/logo.png"
+      },
+
+      {
+        "address": "0xF41F78D5f0AA27d10293697d3Ae411A54f5A7a32",
+        "chainId": 4002,
+        "name": "TOKEN1",
+        "symbol": "TOK1",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/fantom-token-list/master/src/tokens/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83/logo.png"
+      },
+
+      {
+        "address": "0xE8fB351151692cFdC831Bd1D33D868A1663F81C0",
+        "chainId": 4002,
+        "name": "TOKEN2",
+        "symbol": "TOK2",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/makiswap-protocol/fantom-token-list/master/src/tokens/0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83/logo.png"
+      }
+
+    ]
+  }
